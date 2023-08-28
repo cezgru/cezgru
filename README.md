@@ -9,7 +9,7 @@ I'm currently studying Data Science, I also have some background in applied math
 *   🌍  I'm based in Cracow, Poland
 *   ✉️  You can contact me at [cezgru@protonmail.com](mailto:cezgru@protonmail.com)
 *   🧠  I'm learning R, as well as expanding my knowledge of PyTorch and TensorFlow
-*   🤝  I'm open to collaborating on any machine learning projects, ideally dealing with regression.
+*   🤝  I'm open to collaborating on any machine learning projects, prefferably dealing with regression.
 
 ### Skills 
 <p align="left">
